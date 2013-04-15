@@ -1,1 +1,1 @@
-This is A Repository for music instrument tunner.
+This is A Repository for a simple music instrument tunner.
