@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Tuner
+
+  Created by shaxquan  on 12/30/12.
+  Copyright (c) 2012 shaxquan . All rights reserved.
+*/
+"guitar" = "吉他";
+"violin" = "小提琴";
+"List" = "列表";
+"About" = "关于";
